@@ -1,0 +1,4 @@
+ide:
+  build: .
+  volumes:
+    - .:/go/src
